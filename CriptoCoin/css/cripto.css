@@ -1,0 +1,182 @@
+html,body{
+    margin:0;
+    padding:0;
+    width: 1920px;
+}
+.header{
+display: flex;
+    background-image: url('../images/IMG_0313 1.png');
+    width: 1920px;
+    height: 1079px;
+    flex-direction: column;
+}
+.menuheader{
+  display: flex;
+  justify-content: center;
+}
+.menu {
+  align-items: center;
+  list-style-type: none;
+  display: flex;
+  background: rgba(189,174,174,0.5);
+  border-radius: 34px;
+  width: 1824px;
+}
+.textmenu{
+  font-size: 24px;
+  color: #BCB7B7;
+  margin-right: 10px;
+}
+.menulink{
+  color: #BCB7B7;
+}
+.logo{
+    width:95px;
+    height:110px;
+}
+.kurscripto{
+font-family: 'Oswald', sans-serif;
+font-size: 48px;
+color: white;
+margin-left: 100px;
+}
+.buttop5 {
+width: 530px;
+height: 124px;
+border-radius: 157px;
+background: linear-gradient(to right,#0456F5,#00D1FF);
+font-size: 40px;
+color: #fff;
+margin-left: 110px;
+}
+.info{
+font-weight: 600;
+margin-left: 70px;
+}
+.kurscripti{
+  font-size: 40px;
+  margin-top: 141px;
+}
+.cr1 {
+    color: #0871E2;
+}
+.capital{
+    font-size:18px;
+    color:#9A9A9A ;
+    margin-bottom: 71px;
+}
+.menucripto5{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.star{
+width: 30px;
+height: 30px;
+}
+.cri0{
+border-top: 1px solid #000;
+border-bottom: 1px solid #000;
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 28px;
+width: 1711px;
+}
+.cri1{
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 28px;
+border-bottom: 1px solid #000;
+width: 1711px;
+}
+.cri2{
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 28px;
+border-bottom: 1px solid #000;
+width: 1711px;
+}
+.cri3{
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 28px;
+border-bottom: 1px solid #000;
+width: 1711px;
+}
+.cri4{
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 28px;
+border-bottom: 1px solid #000;
+width: 1711px;
+}
+.cri5{
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 28px;
+border-bottom: 1px solid #000;
+width: 1711px;
+}
+.pluscr{
+  color: #17DA1E;
+}
+.minuscr{
+  color: #F90000;
+}
+.mininame{
+ font-size: 24px;
+}
+.infocripta{
+  margin-top: 108px;
+  margin-bottom: 64px;
+}
+.rinokcripto{
+  font-size: 36px;
+  margin-left: 50px;
+  }
+  .rinok {
+    color: #0871E2;
+  }
+  .rinokcapital {
+    font-size: 24px;
+    margin-left: 50px;
+  }
+  .sravnirinok{
+  font-size: 36px;
+  margin-left: 50px;
+  }
+  .sravnicriptu {
+    color: #0871E2;
+  }
+  .threecategors {
+    font-size: 24px;
+    margin-left: 50px;
+  }
+  .price{
+  font-size: 36px;
+  margin-left: 50px;
+  }
+  .pricecripto {
+    color: #0871E2;
+  }
+  .criptobirga {
+    font-size: 24px;
+    margin-left: 50px;
+  }
+.footer {
+display: flex;
+background: #D9D9D9;
+flex-direction: column;
+}
+.allrights {
+font-size: 20px;
+}
+.otkaz {
+font-size: 20px;
+}

@@ -1,0 +1,244 @@
+
+
+html,body{
+  margin:0;
+  padding:0;
+  width: 1920px;
+}
+.header{
+display: flex;
+  background-image: url('../images/IMG_0313 1.png');
+  width: 1920px;
+  height: 1079px;
+  flex-direction: column;
+}
+.menuheader{
+display: flex;
+justify-content: center;
+}
+.menu {
+align-items: center;
+list-style-type: none;
+display: flex;
+background: rgba(189,174,174,0.5);
+border-radius: 34px;
+width: 1824px;
+}
+.textmenu{
+font-size: 24px;
+color: #BCB7B7;
+margin-right: 10px;
+}
+.menulink{
+color: #BCB7B7;
+}
+.logo{
+  width:95px;
+  height:110px;
+}
+.kurscripto{
+font-family: 'Oswald', sans-serif;
+font-size: 48px;
+color: white;
+margin-left: 100px;
+}
+.buttop5 {
+width: 530px;
+height: 124px;
+border-radius: 157px;
+background: linear-gradient(to right,#0456F5,#00D1FF);
+font-size: 40px;
+color: #fff;
+margin-left: 110px;
+}
+.kurscripti{
+font-size: 48px;
+display: flex;
+justify-content: center;
+font-weight: 400;
+}
+.Nft1{
+  color: #0871E2;
+}
+.Nft2{
+  color: #0871E2;
+}
+.NFT{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.blockNFT1{
+background-color: #D9D9D9;
+border-radius: 14px;
+width: 296px;
+height: 287px;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.NameNFT1{
+font-size: 18px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.priceNFT1{
+font-size: 40px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.blockNFT2{
+background-color: #D9D9D9;
+border-radius: 14px;
+width: 296px;
+height: 287px;
+display: flex;
+align-items: center;
+flex-direction: column;
+margin-top: 70px;
+}
+.NameNFT2{
+font-size: 18px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.priceNFT2{
+font-size: 40px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.blockNFT3{
+background-color: #D9D9D9;
+border-radius: 14px;
+width: 296px;
+height: 287px;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.NameNFT3{
+font-size: 18px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.priceNFT3{
+font-size: 40px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.blockNFT4{
+background-color: #D9D9D9;
+border-radius: 14px;
+width: 296px;
+height: 287px;
+display: flex;
+align-items: center;
+flex-direction: column;
+margin-top: 70px;
+}
+.NameNFT4{
+font-size: 18px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.priceNFT4{
+font-size: 40px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.blockNFT5{
+background-color: #D9D9D9;
+border-radius: 14px;
+width: 296px;
+height: 287px;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.NameNFT5{
+font-size: 18px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.priceNFT5{
+font-size: 40px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.blockNFT6{
+background-color: #D9D9D9;
+border-radius: 14px;
+width: 296px;
+height: 287px;
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+margin-top: 70px;
+}
+.NameNFT6{
+font-size: 18px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.priceNFT6{
+font-size: 40px;
+font-family: 'Oswald', sans-serif;
+padding: 0;
+margin: 0;
+}
+.rinokcripto{
+font-size: 36px;
+margin-left: 50px;
+}
+.rinok {
+  color: #0871E2;
+}
+.rinokcapital {
+  font-size: 24px;
+  margin-left: 50px;
+}
+.sravnirinok{
+font-size: 36px;
+margin-left: 50px;
+}
+.sravnicriptu {
+  color: #0871E2;
+}
+.threecategors {
+  font-size: 24px;
+  margin-left: 50px;
+}
+.price{
+font-size: 36px;
+margin-left: 50px;
+}
+.pricecripto {
+  color: #0871E2;
+}
+.criptobirga {
+  font-size: 24px;
+  margin-left: 50px;
+}
+.footer {
+display: flex;
+background: #D9D9D9;
+flex-direction: column;
+}
+.allrights {
+  font-size: 20px;
+}
+.otkaz {
+  font-size: 20px;
+}

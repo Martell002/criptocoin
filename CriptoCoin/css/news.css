@@ -1,0 +1,128 @@
+
+
+html,body{
+  margin:0;
+  padding:0;
+  width: 1920px;
+}
+.header{
+display: flex;
+  background-image: url('../images/IMG_0313 1.png');
+  width: 1920px;
+  height: 1079px;
+  flex-direction: column;
+}
+.menuheader{
+display: flex;
+justify-content: center;
+}
+.menu {
+align-items: center;
+list-style-type: none;
+display: flex;
+background: rgba(189,174,174,0.5);
+border-radius: 34px;
+width: 1824px;
+}
+.textmenu{
+font-size: 24px;
+color: #BCB7B7;
+margin-right: 10px;
+}
+.menulink{
+color: #BCB7B7;
+}
+.logo{
+  width:95px;
+  height:110px;
+}
+.kurscripto{
+  font-family: 'Oswald', sans-serif;
+  font-size: 48px;
+  color: white;
+  margin-left: 100px;
+  }
+  .buttop5 {
+  width: 530px;
+  height: 124px;
+  border-radius: 157px;
+  background: linear-gradient(to right,#0456F5,#00D1FF);
+  font-size: 40px;
+  color: #fff;
+  margin-left: 110px;
+  }
+.newscripta{
+font-size: 40px;
+font-weight:600 ;
+display: flex;
+justify-content: center;
+}
+
+.cripta{
+color: #0871E2;
+}
+.news{
+display: flex;
+justify-content: space-evenly;
+margin-bottom: 271px;
+margin-top: 152px;
+}
+.zagolovok{
+font-size: 24px;
+}
+.Cardanonews{
+width: 516px;
+height: 514px;
+background-color: #D9D9D9;
+border-radius: 29px;
+font-size: 20px;
+}
+.Atomicnews{
+width: 516px;
+height: 663px;
+background-color: #D9D9D9;
+border-radius: 29px;
+font-size: 20px;
+margin-top: 120px;
+}
+.BTCMoscownews{
+width: 516px;
+height: 655px;
+background-color: #D9D9D9;
+border-radius: 29px;
+font-size: 20px;
+}
+.Blurnews{
+width: 516px;
+height: 547px;
+background-color: #D9D9D9;
+border-radius: 29px;
+font-size: 20px;
+margin-top: 120px;
+}
+.Uniswapnews{
+width: 516px;
+height: 437px;
+background-color: #D9D9D9;
+border-radius: 29px;
+font-size: 20px;
+}
+.XRPnews{
+width: 516px;
+height: 767px;
+background-color: #D9D9D9;
+border-radius: 29px;
+font-size: 20px;
+margin-top: 120px;
+}
+.footer {
+display: flex;
+background: #D9D9D9;
+flex-direction: column;
+}
+.allrights {
+  font-size: 20px;
+}
+.otkaz {
+  font-size: 20px;
+}
